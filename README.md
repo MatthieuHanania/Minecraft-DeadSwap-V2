@@ -9,7 +9,8 @@ After a certain time, the positions of the players are swaped, so the goal is to
 There is a menu accessible by the /deathswap command allowing to modify the times before the tp as well as different options (difficulty, regeneration, activate or deactivate the kits and the alerts of 20, 10, 5, 3, 2, 1 seconds before the tps).
 
 The menu
-![Alt text](https://github.com/MatthieuHanania/Minecraft-DeadSwap-V2/blob/main/pictures/deathSwap%20menu.png "a title")
+
+![Alt text](https://github.com/MatthieuHanania/Minecraft-DeadSwap-V2/blob/main/pictures/deathSwap%20menu.png "The menu")
 
 
 https://youtu.be/u8GR9oDPNKM
