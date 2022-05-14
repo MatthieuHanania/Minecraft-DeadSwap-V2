@@ -1,0 +1,9 @@
+name: DeathSwap
+version: 1.0
+api-version: 1.16
+author: Reycun
+main: fr.Reycun.DeathSwap.Main
+commands:
+  deathswap:
+    description: lance le deathswap
+    permission: DeathSwap.use
