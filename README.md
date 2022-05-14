@@ -10,7 +10,7 @@ There is a menu accessible by the /deathswap command allowing to modify the time
 
 The menu
 
-![Alt text](https://github.com/MatthieuHanania/Minecraft-DeadSwap-V2/blob/main/pictures/deathSwap%20menu.png "The menu")
+<img src="https://github.com/MatthieuHanania/Minecraft-DeadSwap-V2/blob/main/pictures/deathSwap%20menu.png " alt="The menu" width="200"/>
 
 
 https://youtu.be/u8GR9oDPNKM
